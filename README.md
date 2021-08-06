@@ -11,7 +11,7 @@
 
 ## Description
 
-_In this project I made a portfolio on myself. Started by atta_
+_In this project I made a portfolio on myself. Started by making a jumbotron section using bootstrap. Adding a picture of myself, and adding three sections. A about me, background, and projects sections._
 
 ## Setup/Installation Requirements
 
